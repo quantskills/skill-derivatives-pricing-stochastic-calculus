@@ -1,0 +1,4 @@
+name: derivatives-pricing-stochastic-calculus
+description: Reproducible derivatives pricing and model-risk validation skill.
+entrypoint: ../SKILL.md
+license: GPL-3.0-only

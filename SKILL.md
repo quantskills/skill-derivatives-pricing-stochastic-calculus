@@ -33,14 +33,15 @@ quantSkills:
   - codex
   - openclaw
   - cursor
+  - hermes
   status: stable
   validation_level: runnable
-  maintainer_type: official
+  maintainer_type: community
   summary_zh: 输入期权合约与市场参数，输出可复现的定价与风险报告：BSM 解析价、全套希腊字母、二叉树与蒙特卡洛数值价、隐含波动率、平价与无套利校验，一次算清。
   summary_en: A derivatives-pricing skill that computes Black-Scholes-Merton prices
     and Greeks, cross-checks them with binomial-tree and Monte-Carlo methods, inverts
     implied volatility, and runs put-call-parity and no-arbitrage validation.
-  license: GPL-3.0
+  license: GPL-3.0-only
   requires: []
 ---
 

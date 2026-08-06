@@ -1,0 +1,6 @@
+---
+description: Load the derivatives pricing skill for option pricing and risk validation
+alwaysApply: false
+---
+
+For options or derivatives pricing requests, read the repository root `SKILL.md`, then use `scripts/run_pricing.py`. Preserve explicit assumptions, cross-method checks, and the research-only disclaimer.
